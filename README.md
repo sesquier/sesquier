@@ -1,6 +1,6 @@
 # Hi, I'm Simon 👋
 
-**Software engineering student at [42 Paris](https://42.fr).** I like understanding how things work under the hood: I write shells, concurrent programs and graphics engines in C and C++, and I build web products with Python and Django.
+**Software engineering student at [42 Paris](https://42.fr).** I like understanding how things work under the hood: I write shells, concurrent programs and graphics engines in C and C++, and I am also exploring web development with Python.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon%20Esquier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-esquier-9b656419b)
 
@@ -9,9 +9,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -49,7 +46,7 @@
 
 # Salut, moi c'est Simon 👋
 
-**Étudiant en ingénierie logicielle à [42 Paris](https://42.fr).** J'aime comprendre comment les choses fonctionnent en profondeur : j'écris des shells, des programmes concurrents et des moteurs graphiques en C et C++, et je construis des produits web avec Python et Django.
+**Étudiant en ingénierie logicielle à [42 Paris](https://42.fr).** J'aime comprendre comment les choses fonctionnent en profondeur : j'écris des shells, des programmes concurrents et des moteurs graphiques en C et C++, et je m'initie aussi au développement web avec Python.
 
 ## ⭐ Projets phares
 
