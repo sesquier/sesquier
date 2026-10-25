@@ -1,6 +1,8 @@
 # Hi, I'm Simon 👋
 
-**Software engineering student at [42 Paris](https://42.fr).** I like understanding how things work under the hood: I write shells, concurrent programs and graphics engines in C and C++, and I am also exploring web development with Python.
+**Student at [42 Paris](https://42.fr) and Growth & Ecosystem Lead at 42AI.** I'm building a profile at the crossroads of business and technology.
+
+I learned to code from the ground up in C and C++, with a Bash-like shell, a multithreaded simulation built on mutexes, and a raycasting 3D engine. As an entrepreneur (RockLead, and Coutrio, a travel platform), I also build automation workflows with n8n and Docker. My goal is to help companies adopt new technologies, AI and automation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon%20Esquier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-esquier-9b656419b)
 
@@ -46,7 +48,9 @@
 
 # Salut, moi c'est Simon 👋
 
-**Étudiant en ingénierie logicielle à [42 Paris](https://42.fr).** J'aime comprendre comment les choses fonctionnent en profondeur : j'écris des shells, des programmes concurrents et des moteurs graphiques en C et C++, et je m'initie aussi au développement web avec Python.
+**Étudiant à [42 Paris](https://42.fr) et responsable Growth & Ecosystem chez 42AI.** Je construis un profil à la croisée du business et de la technologie.
+
+J'ai appris à programmer en partant des bases, en C et C++ : un shell inspiré de Bash, une simulation multithreadée synchronisée par mutex, un moteur 3D en raycasting. En tant qu'entrepreneur (RockLead, et Coutrio, une plateforme de voyage), je conçois aussi des workflows d'automatisation avec n8n et Docker. Mon objectif : accompagner les entreprises dans l'adoption des nouvelles technologies, de l'IA et de l'automatisation.
 
 ## ⭐ Projets phares
 
